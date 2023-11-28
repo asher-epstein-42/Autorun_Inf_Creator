@@ -1,6 +1,5 @@
-# Project Name
 
-## Autorun Inf Creator
+# Autorun Inf Creator
 
 ### Description
 This simple Python script, `create_autorun_inf.py`, allows you to create an autorun.inf file for a specified executable. The autorun.inf file is commonly used to automatically run a program when a removable drive (such as a USB flash drive) is inserted into a computer.
